@@ -92,37 +92,29 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 <br/>
 <br/>
 
-
 ### 🏆 Certificações
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
   
   <div style="text-align: center; width: 150px;">
-    <a href="https://certs.ine.com/6d9d6b4d-685a-42d6-b22d-f01f017b9083#acc.BZ2JVwCo">
-      <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2 Badge"/>
-    </a>
+    <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2 Badge"/>
     <br />
     <sub><b>eLearnSecurity Junior Penetration Tester (eJPT)</b></sub>
   </div>
   
   <div style="text-align: center; width: 150px;">
-    <a href="URL_DE_VERIFICACAO_CRTA">
-      <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA Badge"/>
-    </a>
+    <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA Badge"/>
     <br />
     <sub><b>Certified Red Team Analyst (CRTA)</b></sub>
   </div>
   
   <div style="text-align: center; width: 150px;">
-    <a href="URL_DE_VERIFICACAO_SAP">
-      <img src="./Assets/ABAP.png" width="120px" alt="SAP ABAP Cloud Badge"/>
-    </a>
-    <br />
-    <sub><b>SAP Certified Associate - ABAP Cloud</b></sub>
+     <img src="./Assets/ABAP.png" width="120px" alt="SAP ABAP Cloud Badge"/>
+     <br />
+     <sub><b>SAP Certified Associate - ABAP Cloud</b></sub>
   </div>
 
 </div>
-
 
 
 ### 📊 Estatísticas
@@ -136,15 +128,11 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
     src="https://github-readme-stats.vercel.app/api?username=O-DEV-BK&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-top: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-  
-
 </p>
 
