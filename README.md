@@ -116,7 +116,6 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 
 </div>
 
-
 ### 📊 Estatísticas
 
 <p>
@@ -127,7 +126,6 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=O-DEV-BK&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
       align="left" 
       alt="GitHub Stats" 
@@ -135,4 +133,3 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
