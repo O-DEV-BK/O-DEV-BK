@@ -96,18 +96,22 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 ### 🏆 Certificações
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2"/><br/>
-    <sub><b>eLearnSecurity Junior<br/>Penetration Tester (eJPT)</b></sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA"/><br/>
-    <sub><b>Certified Red Team<br/>Analyst (CRTA)</b></sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="./Assets/ABAP.png" width="120px" alt="ABAP"/><br/>
-    <sub><b>SAP Certified Associate<br/>ABAP Cloud</b></sub>
-  </div>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top" style="padding: 0 20px;">
+        <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2"/><br/>
+        <sub><b>eLearnSecurity Junior<br/>Penetration Tester (eJPT)</b></sub>
+      </td>
+      <td align="center" valign="top" style="padding: 0 20px;">
+        <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA"/><br/>
+        <sub><b>Certified Red Team<br/>Analyst (CRTA)</b></sub>
+      </td>
+      <td align="center" valign="top" style="padding: 0 20px;">
+        <img src="./Assets/ABAP.png" width="120px" alt="ABAP"/><br/>
+        <sub><b>SAP Certified Associate<br/>ABAP Cloud</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 📊 Estatísticas
