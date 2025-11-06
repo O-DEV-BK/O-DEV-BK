@@ -95,23 +95,21 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 ### 🏆 Certificações
 
 <p align="center">
-  <span style="display: inline-block; text-align: center; vertical-align: top; width: 160px; margin: 10px;">
+  <span style="display: inline-block; vertical-align: top; width: 170px; margin: 10px;">
     <img 
       src="./Assets/EjptV2.jpeg" 
       width="120px" 
       alt="eJPTv2 Badge"
     /><br/>
     <sub><b>eLearnSecurity Junior<br/>Penetration Tester (eJPT)</b></sub>
-  </span>
-  <span style="display: inline-block; text-align: center; vertical-align: top; width: 160px; margin: 10px;">
+  </span><span style="display: inline-block; vertical-align: top; width: 170px; margin: 10px;">
     <img 
       src="./Assets/CRTA.jpeg" 
       width="120px" 
       alt="CRTA Badge"
     /><br/>
     <sub><b>Certified Red Team<br/>Analyst (CRTA)</b></sub>
-  </span>
-  <span style="display: inline-block; text-align: center; vertical-align: top; width: 160px; margin: 10px;">
+  </span><span style="display: inline-block; vertical-align: top; width: 170px; margin: 10px;">
     <img 
       src="./Assets/ABAP.png" 
       width="120px" 
