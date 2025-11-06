@@ -94,22 +94,17 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 
 ### 🏆 Certificações
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="150px" style="padding: 0 10px; border: none;">
-      <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2 Badge"/><br/>
-      <sub><b>eLearnSecurity Junior<br/>Penetration Tester (eJPT)</b></sub>
-    </td>
-    <td align="center" width="150px" style="padding: 0 10px; border: none;">
-      <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA Badge"/><br/>
-      <sub><b>Certified Red Team<br/>Analyst (CRTA)</b></sub>
-    </td>
-    <td align="center" width="150px" style="padding: 0 10px; border: none;">
-      <img src="./Assets/ABAP.png" width="120px" alt="SAP ABAP Cloud Badge"/><br/>
-      <sub><b>SAP Certified Associate<br/>ABAP Cloud</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2" style="padding-right: 10px;" />
+  <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA" style="padding-right: 10px;" />
+  <img src="./Assets/ABAP.png" width="120px" alt="ABAP"/>
+</p>
+
+<p align="center">
+  <sub><b>eJPT</b></sub> | 
+  <sub><b>CRTA</b></sub> | 
+  <sub><b>SAP ABAP Cloud</b></sub>
+</p>
 
 ### 📊 Estatísticas
 
