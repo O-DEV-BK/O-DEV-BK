@@ -94,7 +94,7 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 
 ### 🏆 Certificações
 
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" width="33%" style="border: none;">
       <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2"/><br/>
