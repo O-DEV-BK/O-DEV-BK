@@ -92,37 +92,38 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 <br/>
 <br/>
 
+
 ### 🏆 Certificações
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr align="center">
-    
-    <td style="padding: 15px;">
-      <a href="">
-        <img src="https://images.credly.com/size/220x220/images/d86b86a8-f58c-4f88-87b6-f6d3f8f17a94/eJPT_v2.png" width="120px" alt="eJPTv2 Badge"/>
-      </a>
-      <br />
-      <sub><b>eLearnSecurity Junior Penetration Tester (eJPT)</b></sub>
-    </td>
-    
-    <td style="padding: 15px;">
-      <a href="URL_DE_VERIFICACAO_CRTA">
-        <img src="https://images.credly.com/size/220x220/images/84106579-2476-47a3-a859-07f10b388b02/CRTA-2023.png" width="120px" alt="CRTA Badge"/>
-      </a>
-      <br />
-      <sub><b>Certified Red Team Analyst (CRTA)</b></sub>
-    </td>
-    
-    <td style="padding: 15px;">
-       <a href="URL_DE_VERIFICACAO_SAP">
-        <img src="https://images.credly.com/size/220x220/images/6c5c8d62-a510-4f51-a20c-b5f3d45e99d3/image.png" width="120px" alt="SAP ABAP Cloud Badge"/>
-      </a>
-      <br />
-      <sub><b>SAP Certified Associate - ABAP Cloud</b></sub>
-    </td>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
+  
+  <div style="text-align: center; width: 150px;">
+    <a href="https://certs.ine.com/6d9d6b4d-685a-42d6-b22d-f01f017b9083#acc.BZ2JVwCo">
+      <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2 Badge"/>
+    </a>
+    <br />
+    <sub><b>eLearnSecurity Junior Penetration Tester (eJPT)</b></sub>
+  </div>
+  
+  <div style="text-align: center; width: 150px;">
+    <a href="URL_DE_VERIFICACAO_CRTA">
+      <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA Badge"/>
+    </a>
+    <br />
+    <sub><b>Certified Red Team Analyst (CRTA)</b></sub>
+  </div>
+  
+  <div style="text-align: center; width: 150px;">
+    <a href="URL_DE_VERIFICACAO_SAP">
+      <img src="./Assets/ABAP.png" width="120px" alt="SAP ABAP Cloud Badge"/>
+    </a>
+    <br />
+    <sub><b>SAP Certified Associate - ABAP Cloud</b></sub>
+  </div>
 
-  </tr>
-</table>
+</div>
+
+
 
 ### 📊 Estatísticas
 
@@ -139,9 +140,11 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-top: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
   
 
 </p>
+
