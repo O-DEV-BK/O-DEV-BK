@@ -94,17 +94,17 @@ Me chamo Raphael Lima, natural do Rio De janeiro. Concluí o curso superior de A
 
 ### 🏆 Certificações
 
-<p align="center">
-  <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2" style="padding-right: 10px;" />
-  <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA" style="padding-right: 10px;" />
+<div align="center">
+  <img src="./Assets/EjptV2.jpeg" width="120px" alt="eJPTv2"/>
+  <img src="./Assets/CRTA.jpeg" width="120px" alt="CRTA" hspace="30"/>
   <img src="./Assets/ABAP.png" width="120px" alt="ABAP"/>
-</p>
-
-<p align="center">
-  <sub><b>eJPT</b></sub> | 
-  <sub><b>CRTA</b></sub> | 
-  <sub><b>SAP ABAP Cloud</b></sub>
-</p>
+  <br/><br/>
+  <sub><b>eLearnSecurity Junior<br/>Penetration Tester (eJPT)</b></sub>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <sub><b>Certified Red Team<br/>Analyst (CRTA)</b></sub>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <sub><b>SAP Certified Associate<br/>ABAP Cloud</b></sub>
+</div>
 
 ### 📊 Estatísticas
 
